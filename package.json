@@ -10,6 +10,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "csv-parse": "^5.5.1"
+    "csv-parse": "^5.5.6"
   }
 }
